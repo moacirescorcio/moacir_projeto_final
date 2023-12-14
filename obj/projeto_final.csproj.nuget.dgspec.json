@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\projeto_final\\projeto_final.csproj": {}
+    "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\moacir_projeto_final\\projeto_final.csproj": {}
   },
   "projects": {
-    "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\projeto_final\\projeto_final.csproj": {
+    "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\moacir_projeto_final\\projeto_final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\projeto_final\\projeto_final.csproj",
+        "projectUniqueName": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\moacir_projeto_final\\projeto_final.csproj",
         "projectName": "projeto_final",
-        "projectPath": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\projeto_final\\projeto_final.csproj",
+        "projectPath": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\moacir_projeto_final\\projeto_final.csproj",
         "packagesPath": "C:\\Users\\office\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\projeto_final\\obj\\",
+        "outputPath": "C:\\Users\\office\\Desktop\\IFPI\\2º período\\Analise\\moacir_projeto_final\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\office\\AppData\\Roaming\\NuGet\\NuGet.Config"

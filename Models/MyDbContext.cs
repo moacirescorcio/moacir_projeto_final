@@ -19,5 +19,6 @@ namespace democsharp.Models
        public DbSet<TipoDePagamento> TipoDePagamento {get; set;}
        public DbSet<Transportadora> Transportadora {get; set;}
        public DbSet<Vendedor> Vendedor {get; set;}
+       public DbSet<Cliente> Cliente {get; set;}
    }
 }
